@@ -6,3 +6,4 @@ App has the following functions:
   -Search recipe by drink's name.
   -Show the drink's complete recipe with instructions.
   -User can save any recipe and the list will be locally stored.
+[![](demo_drinkapp.gif)](https://github.com/ndinhloc/drink_app/blob/master/demo_drinkapp.gif)
